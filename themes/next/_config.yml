@@ -143,8 +143,6 @@ font:
 social:
   #LinkLabel: Link
   Wechat: /wechat
-  Weibo: http://weibo.com/Youngforzy
-  GitHub: https://github.com/Youngforzy
   Csdn: http://blog.csdn.net/babylove_bale
 
 # Social Links Icons
@@ -156,9 +154,6 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
   Wechat: wechat
   Csdn: book
 
