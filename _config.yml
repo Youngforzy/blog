@@ -72,7 +72,7 @@ tag: 1
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tkl
+theme: next
 plugins: hexo-generate-feed
 feed:
   type: atom 
